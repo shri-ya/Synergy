@@ -9,6 +9,7 @@ is designed to detect emotions from the text entered by users and offer a mood b
 *  __Framework:__ React.js, Flask
 *  __ML Model:__ SVM Algorithm
 *  __Backend:__ Python
+  
 
 ## Algorithm ##
 1. Start the synergy application. 
